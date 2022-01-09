@@ -1,1 +1,2 @@
-# CASE_Praxisprojekt_-HS21-
+# CASE - Praxisprojekt (HS21)
+
