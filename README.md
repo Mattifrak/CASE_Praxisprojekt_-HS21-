@@ -8,7 +8,7 @@ For our CASE, we did a study about how to apply machine learning on diffrent dat
 - Litecoin
 - Dogecoin
 
-Machine Learning
+# Machine Learning
 
 We used the recurrent neural network architecture Long Short-Term Memory (LSTM) to try to predict the future price trends of these coins.
 
