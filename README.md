@@ -16,6 +16,7 @@ A part of the data we used, we found on https://www.kaggle.com/odins0n/top-50-cr
 
 # Cryptocurrencies
 
+As already said, we will try and predict the price tend of 5 crypto-coins. These coins were chosen by us. Because they are gaining more and more intrest by investors, it seemed us intresting to try and predict their price, instead of the regular stock market.
 
 # Machine Learning
 
