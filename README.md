@@ -1,6 +1,6 @@
 # Cryptocurrency Price Trend Prediction using Machine Learning - CASE
 
-For our CASE, we did a study about how to apply machine learning on diffrent datasets from Cryptocurrencies to see if it would be possible to predict the price trend of these diffrent coins. The coins we analysed are:
+For our CASE, me and @bendekeyser did a study about how to apply machine learning on diffrent datasets from Cryptocurrencies to see if it would be possible to predict the price trend of these diffrent coins. The coins we analysed are:
 
 - Bitcoin
 - Ethereum
