@@ -12,7 +12,7 @@ For our CASE, we did a study about how to apply machine learning on diffrent dat
 
 # Dataset
 
-A part of the data we used, we found on https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices. The other data we retrieved it from Coinbase PRO API. 
+A part of the data we used, we found on https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices. The other data was retrieved it from Coinbase PRO API. 
 
 # Cryptocurrencies
 
