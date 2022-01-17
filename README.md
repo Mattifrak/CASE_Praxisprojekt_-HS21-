@@ -23,8 +23,9 @@ As already said, we will try and predict the price tend of 5 crypto-coins. These
 Our focus for this project was more in the deep learning part of Machine learning. We used the recurrent neural network architecture Long Short-Term Memory (LSTM) to try to predict the future price trends of these coins. This Recurrent Neural Network architecture is one of the most suitable architecture for predicting Stock/Crypto prices.
 
 
+# Project context
 
+This work has been conducted in a student project at the Bern University of Applied Sciences (BUAS) in the bachelor study program "Link: Business Information Technology" (supervisor Eduard Klein).
 
-This project was supervised by Prof. Dr. Eduard Klein.
+ https://www.bfh.ch/en/studies/bachelor/business-information-technology/
 
-BFH / CASE / WI
