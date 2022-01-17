@@ -25,6 +25,6 @@ Our focus for this project was more in the deep learning part of Machine learnin
 
 # Project context
 
-This work has been conducted in a student project at the Bern University of Applied Sciences (BUAS) in the bachelor study program "Link: [Business Information Technology] (https://www.bfh.ch/en/studies/bachelor/business-information-technology/)" (supervisor Eduard Klein).
+This work has been conducted in a student project at the Bern University of Applied Sciences (BUAS) in the bachelor study program "Link: [Business Information Technology](https://www.bfh.ch/en/studies/bachelor/business-information-technology/)" (supervisor Eduard Klein).
 
  
